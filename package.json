@@ -1,0 +1,22 @@
+{
+  "name": "playwrightdemo",
+  "version": "1.0.0",
+  "description": "playwright setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathyasuba27/playwrightdemo.git"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "sathya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathyasuba27/playwrightdemo/issues"
+  },
+  "homepage": "https://github.com/sathyasuba27/playwrightdemo#readme"
+}
