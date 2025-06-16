@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "playwright setup",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sathyasuba27/playwrightdemo.git"
@@ -18,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/sathyasuba27/playwrightdemo/issues"
   },
-  "homepage": "https://github.com/sathyasuba27/playwrightdemo#readme"
+  "homepage": "https://github.com/sathyasuba27/playwrightdemo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.3"
+  }
 }
